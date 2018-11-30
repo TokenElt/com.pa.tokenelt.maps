@@ -9,6 +9,7 @@
     "date": "2018/11/29",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/rel-client-system-sharing-2.69117/",
+    "icon": "https://forums.planetaryannihilation.com/data/avatars/l/1985/1985850.jpg?1543543118",
     "category": [
         "ui",
 		"maps"
@@ -18,7 +19,6 @@
             "coui://ui/mods/com.pa.tokenelt.maps/maps.js"
         ]
     },
-    "icon": "",
     "priority": 500,
     "enabled": true,
     "dependencies": [
